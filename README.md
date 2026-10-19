@@ -265,7 +265,7 @@ Formación en desarrollo de software, programación, bases de datos, desarrollo 
 📍 Medellín, Colombia  
 📧 montoyarestreposamuel26@gmail.com  
 💻 [github.com/Mockkkaa](https://github.com/Mockkkaa)  
-🔗 [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/samuel-montoya-restrepo-97a268445/))
+🔗 [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/samuel-montoya-restrepo-97a268445/)
 
 **Disponible para:**  
 Prácticas · Etapa productiva · Junior Software Developer · Frontend Developer
